@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "Em hãy nhấn vô hộp quà, rùi sau đó là bức thư nhé :3" //Lời mở đầu cho bức thư
-const mainContentLetter = "🌸 Chúc mừng 8/3! 🌸 Chúc em luôn xinh đẹp, rạng rỡ và hạnh phúc như những đóa hoa mùa xuân. Mong rằng mỗi ngày của em đều ngập tràn niềm vui và những điều ngọt ngào." //Nội dung của bức thư
+const mainContentLetter = "🌸 Happy women's day! 🌸 Chúc em luôn xinh đẹp, rạng rỡ và hạnh phúc như những đóa hoa mùa xuân. Mong rằng mỗi ngày của em đều ngập tràn niềm vui và những điều ngọt ngào." //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
